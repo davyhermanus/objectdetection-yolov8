@@ -1,2 +1,1 @@
 ultralight
-libgl1-mesa-glx
