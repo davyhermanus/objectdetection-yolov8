@@ -1,1 +1,1 @@
-ultralytics,pafi
+ultralytic,pafi
