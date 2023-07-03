@@ -1,3 +1,4 @@
 apt-get update
-apt-get install -y python3-opencv libgl1-mesa-glx
-pip install opencv-python
+apt-get install -y libgl1-mesa-glx
+apt-get install -y python3-opencv
+pip3 install opencv-python-headless==4.5.3.56
